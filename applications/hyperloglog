@@ -1,0 +1,8 @@
+{
+  "description": "Adds HyperLogLog algorithm implementation",
+  "author": "mrbar42",
+
+  "versions": {
+    "0.0.1" : { "type": "github", "location": "mrbar42/hyperloglog-foxx", "tag": "v0.0.2" }
+  }
+}
